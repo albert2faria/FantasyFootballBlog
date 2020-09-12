@@ -39,3 +39,16 @@ body
 {
   font-size: 20px;
 }
+
+#post
+{
+  padding: 1em;
+}
+
+#footer
+{
+  background: yellowgreen;
+  color: rgb(191, 15, 191);
+  text-align: center;
+  padding: 0.5em;
+}
