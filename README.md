@@ -5,8 +5,9 @@ A Blog for Fantasy Football lovers.
 ##Fantasy is made by fans for fans:
 * Challenge your football knowledge.
 * Show who has the best team.
+* Score a bunch of points.
 * Win the League.
-* Enjoy.
+* Enjoy!
 
 
 Reminder: **This** **readne.md is a joke. Just made it for practice.**
